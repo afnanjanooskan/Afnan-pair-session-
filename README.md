@@ -1,1 +1,0 @@
-# Afnan-pair-session-
