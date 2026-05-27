@@ -122,7 +122,7 @@ router.get("/", async (req, res) => {
               user_jid,
               {
                 image: {
-                  url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                  url: "https://raw.githubusercontent.com/afnanjanooskan/Afnan-pair-session-/main/bot_image.jpg",
                 },
 
                 caption: sid,
